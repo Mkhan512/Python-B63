@@ -91,7 +91,9 @@ boolean_true = True
 boolean_false = False
 print("Boolean True:", boolean_true)
 print("Boolean False:", boolean_false)
-
+ **None Type**
+How to use the None keyword to define a null value in Python. None is a data type of its own and not the same as 0, False, or an empty string.
+https://www.bing.com/ck/a?!&&p=0f36211a88d1b084JmltdHM9MTcyMzg1MjgwMCZpZ3VpZD0yNWU2ZWUxOC1lNDJmLTZmYWItMjA3NS1mYWRiZTUxNzZlNGMmaW5zaWQ9NTE5NQ&ptn=3&ver=2&hsh=3&fclid=25e6ee18-e42f-6fab-2075-fadbe5176e4c&psq=none+data+type+in+python&u=a1aHR0cHM6Ly93d3cudzNzY2hvb2xzLmNvbS9weXRob24vcmVmX2tleXdvcmRfbm9uZS5hc3A&ntb=1
 # NoneType
 none_value = None
 print("NoneType:", none_value)
